@@ -60,7 +60,6 @@ All functionality is rigorously tested using JUnit:
 - Date of birth parsing (with invalid edge cases)
 
 > ✅ **All tests pass successfully.**  
-> 📸 *[Screenshots attached in the repo]*
 
 ---
 
